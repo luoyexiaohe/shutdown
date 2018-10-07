@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "cmd /c D:/mine/shutdown.bat",0 
